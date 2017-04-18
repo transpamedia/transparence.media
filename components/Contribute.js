@@ -15,7 +15,7 @@ export default class Contribute extends Component {
           <p>
             Rendez-vous sur le
             {' '}
-            <a href="https://github.com/transparencemedia/site" target="_blank">
+            <a href="https://github.com/transpamedia/transparence.media" target="_blank">
               dépôt
             </a>
             {' '}
@@ -25,7 +25,7 @@ export default class Contribute extends Component {
             Sans toucher au code, vous pouvez y
             {' '}
             <a
-              href="https://github.com/transparencemedia/site/blob/master/ajouter-un-media.md"
+              href="https://github.com/transpamedia/transparence.media/blob/master/ajouter-un-media.md"
               target="_blank"
             >
               ajouter ou corriger un média
@@ -34,7 +34,7 @@ export default class Contribute extends Component {
             en éditant les données (c'est du YAML), ou
             {' '}
             <a
-              href="https://github.com/transparencemedia/site/issues/new"
+              href="https://github.com/transpamedia/transparence.media/issues/new"
               target="_blank"
             >
               créer une <em>issue</em>
@@ -58,7 +58,7 @@ export default class Contribute extends Component {
             {' '}
             les données des médias, qui font tourner ce site, sont compréhensibles par tous.
             <a
-              href="https://github.com/transparencemedia/site/blob/master/data/entités.yaml"
+              href="https://github.com/transpamedia/transparence.media/blob/master/data/entités.yaml"
               target="_blank"
             >
               {' '}Jetez-y un coup d'oeil !
@@ -70,7 +70,7 @@ export default class Contribute extends Component {
             , c'est que vous pouvez tout simplement
             {' '}
             <a
-              href="https://github.com/transparencemedia/site/issues/new"
+              href="https://github.com/transpamedia/transparence.media/issues/new"
               target="_blank"
             >
               faire une remarque

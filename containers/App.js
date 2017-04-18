@@ -16,7 +16,7 @@ export default class App extends Component {
 			</div>
 			<div className='main'>
 				<div id="bandeau">
-					Ce site est en version beta : soyez indulgent et <Link to="/contribuer">faites vos retours</Link> ! Le code et les données <a href="https://github.com/transparencemedia/site" target="_blank">sont ouverts.</a>
+					Ce site est en version beta : soyez indulgent et <Link to="/contribuer">faites vos retours</Link> ! Le code et les données <a href="https://github.com/transpamedia/transparence.media" target="_blank">sont ouverts.</a>
 				</div>
 				<ul id="menu">
 					{/* <Link id="home" to="accueil">☖</Link> */}
